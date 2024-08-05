@@ -1,0 +1,487 @@
+[
+  {
+      "telnum": 0,
+      "department": "ห้องประชาสัมพันธ์",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 100,
+      "department": "ศูนย์รับเรื่องร้องเรียน",
+      "buildingaddress": "หลังตึกผู้ป่วยนอก(OPD) เก่า"
+  },
+  {
+      "telnum": 102,
+      "department": "คลินิคจิตเวชและยาเสพติด",
+      "buildingaddress": "อาคารจิตเวช"
+  },
+  {
+      "telnum": 105,
+      "department": "คลินิกกระดูกและข้อ(Orthopedic)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 106,
+      "department": "คลินิิกอายุกรรม(Medicine)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 106,
+      "department": "คลินิกวาร์ฟาริน(Warfarin)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 106,
+      "department": "คลินิกปอดอุดกั้นเรื้อรัง(COPO)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 106,
+      "department": "คลินิกหอบหืด(Asthma)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 106,
+      "department": "คลินิกชะลอไตเสื่อม(CKD)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 106,
+      "department": "คลินิกเด็ก",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 107,
+      "department": "งานป้องกันและควบคุมโรคฯ",
+      "buildingaddress": "อาคารจิตเวช"
+  },
+  {
+      "telnum": 108,
+      "department": "คลินิคตรวจสุขภาพ",
+      "buildingaddress": "หลังตึกผู้ป่วยนอก(OPD) เก่า"
+  },
+  {
+      "telnum": 109,
+      "department": "หน้าห้องตรวจโรค",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 110,
+      "department": "โต๊ะซักประวัติ",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 114,
+      "department": "งานเทคโนโลยีสารสนเทศ (IT)",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 115,
+      "department": "งานประกัันสุขภาพ ฯ (ประกันสังคม)",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 116,
+      "department": "ศููนย์เปล",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 117,
+      "department": "ห้องพักแพทย์",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 118,
+      "department": "คลินิกเบาหวาน(DM) และ ความดัน (HT)",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 119,
+      "department": "กลุ่มงานบริการด้านปฐมภูมิ (เบอร์ 30)",
+      "buildingaddress": "หลังตึกผู้ป่วยนอก(OPD) เก่า"
+  },
+  {
+      "telnum": 122,
+      "department": "ศูนย์เอกซเรย์คอมพิวเตอร์ (CT-Scan)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 197,
+      "department": "งานธุรการ สำนักแพทย์",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 200,
+      "department": "ตึกผู้ป่วยใน 1",
+      "buildingaddress": "ตึึกผู้ป่วยใน 1,2"
+  },
+  {
+      "telnum": 222,
+      "department": "ห้องจ่ายเงิน",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 300,
+      "department": "ตึกผู้ป่วยใน 2",
+      "buildingaddress": "ตึึกผู้ป่วยใน 1,2"
+  },
+  {
+      "telnum": 325,
+      "department": "ห้องเครื่องมือแพทย์",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 400,
+      "department": "ห้องวิสัญญี(OR)",
+      "buildingaddress": "ตึกคลอดและผ่าตัด"
+  },
+  {
+      "telnum": 401,
+      "department": "ห้องผ่าตัด(OR)",
+      "buildingaddress": "ตึกคลอดและผ่าตัด"
+  },
+  {
+      "telnum": 402,
+      "department": "ห้องผ่าคลอด(OR)",
+      "buildingaddress": "ตึกคลอดและผ่าตัด"
+  },
+  {
+      "telnum": 500,
+      "department": "คลินิกแพทย์แผนไทย",
+      "buildingaddress": "อาคารแพทย์แผนไทย"
+  },
+  {
+      "telnum": 501,
+      "department": "ห้องประชุม",
+      "buildingaddress": "แพทย์แผนไทยชั้น 2"
+  },
+  {
+      "telnum": 502,
+      "department": "ห้องประชุม",
+      "buildingaddress": "แพทย์แผนไทยชั้น 2"
+  },
+  {
+      "telnum": 503,
+      "department": "งานโภชนาการ",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 504,
+      "department": "แผนกซักฟอก",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 506,
+      "department": "โรงบำบัดน้ำเสีย",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 507,
+      "department": "คลังพัสดุ",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 508,
+      "department": "คลังยา (ยาและเวทภัณฑ์)",
+      "buildingaddress": "คลังยา"
+  },
+  {
+      "telnum": 509,
+      "department": "โรงงานขาเทียมพระราชทาน",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 511,
+      "department": "รปภ.(ฝั่งศาลพระพรหม)",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 512,
+      "department": "รปภ.(ฝั่งวิทยาลัยการอาชีพ)",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 513,
+      "department": "คลินิกกายภายบำบัด",
+      "buildingaddress": "อาคารแพทย์แผนไทย"
+  },
+  {
+      "telnum": 514,
+      "department": "คลินิกกระตุ้นและพัฒนาการเด็ก",
+      "buildingaddress": "อาคารแพทย์แผนไทย"
+  },
+  {
+      "telnum": 515,
+      "department": "คลังยา (สำนักงาน)",
+      "buildingaddress": "คลังยา"
+  },
+  {
+      "telnum": 516,
+      "department": "ศูนย์ส่งต่อผู้ป่วย",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 519,
+      "department": "หน่วยงานยานพาหนะ",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 610,
+      "department": "ศูนย์แปรรูปและพัฒนาวัตถุดิบสมุนไพร",
+      "buildingaddress": "โรงงานผลิตยาสมุนไพร"
+  },
+  {
+      "telnum": 700,
+      "department": "งานประกันสุขภาพ ฯ (ธุรการ)",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 702,
+      "department": "คลิกนิคศัลยกรรมทั่วไป",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 704,
+      "department": "ห้องจ่ายยา",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 705,
+      "department": "ห้องแม่บ้าน",
+      "buildingaddress": "หลังตึกผู้ป่วยนอก(OPD) เก่า"
+  },
+  {
+      "telnum": 706,
+      "department": "งานภาคสนาม",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 707,
+      "department": "เคาน์เตอร์ทันตกรรม",
+      "buildingaddress": "ศูนย์ทันตกรรม"
+  },
+  {
+      "telnum": 709,
+      "department": "ห้องพักทันตแพทย์",
+      "buildingaddress": "ศูนย์ทันตกรรม"
+  },
+  {
+      "telnum": 716,
+      "department": "คลินิกฝังเข็ม",
+      "buildingaddress": "อาคารแพทย์แผนไทย"
+  },
+  {
+      "telnum": 717,
+      "department": "งานไฟฟ้า",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 723,
+      "department": "งานไตเทียม (ฟอกไต)",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 725,
+      "department": "คลินิกล้างไตทางช่องท้อง (CAPD)",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 800,
+      "department": "ห้องบัตร",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 818,
+      "department": "เคาน์เตอร์พยาบาล",
+      "buildingaddress": "ตึกอโรคยาศาล"
+  },
+  {
+      "telnum": 823,
+      "department": "ร้านกาแฟ",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 827,
+      "department": "คัดกรองผู้ป่วย",
+      "buildingaddress": "ตึกผู้ป่วยนอก(OPD) ชั่วคราว"
+  },
+  {
+      "telnum": 833,
+      "department": "โรงงานล้างและแปรรูปวัตถุดิบสมุนไพร",
+      "buildingaddress": "โรงงานผลิตยาสมุนไพร"
+  },
+  {
+      "telnum": 834,
+      "department": "โรงงานผลิตยาสมุนไพร",
+      "buildingaddress": "โรงงานผลิตยาสมุนไพร"
+  },
+  {
+      "telnum": 835,
+      "department": "โรงต้มยาน้ำ",
+      "buildingaddress": "โรงงานผลิตยาสมุนไพร"
+  },
+  {
+      "telnum": 848,
+      "department": "งานโสตทัศนศึกษา",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 900,
+      "department": "ห้องพัักแพทย์",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 901,
+      "department": "ห้องบัตร",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 902,
+      "department": "ห้องพักพยาบาล",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 903,
+      "department": "ห้องจ่ายยา",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 905,
+      "department": "งานบัญชี",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 906,
+      "department": "กลุุ่มการพยาบาล",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 907,
+      "department": "หัวหน้ากลุ่มการพยาบาล",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 909,
+      "department": "งานพัสดุ(นวลอนงค์)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 911,
+      "department": "งานซ่อมบำรุง",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 913,
+      "department": "งานจ่ายกลาง",
+      "buildingaddress": "หน่วยงานอื่นๆ"
+  },
+  {
+      "telnum": 915,
+      "department": "หัวหน้างานประกันสุขภาพ",
+      "buildingaddress": "ตึกผู้ป่วยใน 3"
+  },
+  {
+      "telnum": 918,
+      "department": "ห้องปฏิบัติการ (Lab)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 919,
+      "department": "ศูนย์พัฒนาคุณภาพ",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 921,
+      "department": "หัวหน้ากลุุ่มงานบริหาร",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 922,
+      "department": "งานธุรการ(จิรา)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 925,
+      "department": "งานธุรการ(ศิริวัลย์)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 927,
+      "department": "งานการเงิน(อภิญญา,บุญเรือน)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 928,
+      "department": "งานธุุรการ(ลัลน์ลลิต)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 928,
+      "department": "ห้องควบคุมเครื่องเสียง",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 929,
+      "department": "งานพัสดุ(สุกัญญา, ธนาวุธ)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน ชั้น 2"
+  },
+  {
+      "telnum": 930,
+      "department": "งานอุบัติเหตุ-ฉุกเฉิน(ER) 075-272332",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 931,
+      "department": "งานรังสีวิทยา (X-ray)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 932,
+      "department": "ห้องปฏิบัติการ (Lab)",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 933,
+      "department": "ห้องจ่ายเงิิน",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 934,
+      "department": "ห้องเจาะเลือด",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 940,
+      "department": "ศูนย์เปล",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 941,
+      "department": "จุดคัดกรอง",
+      "buildingaddress": "อาคารอุบัติเหตุ-ฉุกเฉิน"
+  },
+  {
+      "telnum": 997,
+      "department": "ตึกผู้ป่วยใน 2 (โควิด-19)",
+      "buildingaddress": "ตึึกผู้ป่วยใน 1,2"
+  },
+  {
+      "telnum": 820,
+      "department": "คลินิกผู้สูงอายุ",
+      "buildingaddress": "ตึกอโรคยาศาล"
+  },
+  {
+      "telnum": 821,
+      "department": "คลินิกผู้สูงอายุ",
+      "buildingaddress": "ตึกอโรคยาศาล"
+  },
+  {
+      "telnum": 820,
+      "department": "คลินิกประคับประคอง",
+      "buildingaddress": "ตึกอโรคยาศาล"
+  },
+  {
+      "telnum": 821,
+      "department": "คลินิกผู้สูงอายุ",
+      "buildingaddress": "ตึกอโรคยาศาล"
+  }
+]
