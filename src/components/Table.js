@@ -1,13 +1,16 @@
+// src/components/Table.js
 import React from 'react';
 
-const Table = ({ data }) => {
+function Table({ data, onEdit, onDelete }) {
   return (
-    <table className="table table-bordered table-striped">
-      <thead className="text-left">
+    <table className="table table-striped mt-3">
+      <thead>
         <tr>
           <th>เบอร์โทร</th>
-          <th>แผนก</th>
-          <th>ตึก</th>
+          <th>department</th>
+          <th>buildingaddress</th>
+          <th>action</th>
+    
         </tr>
       </thead>
       <tbody>
@@ -16,11 +19,15 @@ const Table = ({ data }) => {
             <td>{item.telnum}</td>
             <td>{item.department}</td>
             <td>{item.buildingaddress}</td>
+            <td>
+              <button className="btn btn-warning btn-sm mr-2" onClick={() => onEdit(item)}>Edit</button>
+              <button className="btn btn-danger btn-sm" onClick={() => onDelete(item.id)}>Delete</button>
+            </td>
           </tr>
         ))}
       </tbody>
     </table>
   );
-};
+}
 
 export default Table;
